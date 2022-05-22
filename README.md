@@ -4,8 +4,12 @@ This repo contains the materials of the online course *Introduction to Computati
 
 + Lecture Handouts: This folder contains the handout documents offered by the course team.
 
-+ Notes as Code: This folder contains the notes I made when listening to the lectures, in the form of Python code with comments.
++ Notes as Code: This folder contains the notes I made when listening to the lectures or doing the coding exercises, in the form of Python code with comments.
+
++ Handwritten Notes: This folder contains the handwritten notes I made with Notability when listening to the lectures.
 
 + Unit Problem Sets: This folder contains my solutions to the unit problem sets.
 
-Last updated: May 6, 2022
+Course completed on May 22, 2022 :)
+
+This is a fantastic course, I highly recommend it :)
