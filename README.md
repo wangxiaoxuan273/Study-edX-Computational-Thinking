@@ -10,6 +10,6 @@ This repo contains the materials of the online course *Introduction to Computati
 
 + Unit Problem Sets: This folder contains my solutions to the unit problem sets.
 
-Course completed on May 22, 2022 :)
+Course completed on May 22, 2022 | view certificate [here](https://courses.edx.org/certificates/553622c5df484c4cb59ff1c4e46bd02f)
 
 This is a fantastic course, I highly recommend it :)
